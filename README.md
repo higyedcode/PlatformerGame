@@ -7,7 +7,7 @@ This is a platformer game with multiple levels, where the player is a shooter th
 ## Game Features 🕹️
 
 - **Easy Controls:** Just a few buttons to jump and move through the old school maze.
-
+>
 ![Alt text](play.png)
 
 - **Different Levels:** Each level has its own challenges. Can you get through them all?
