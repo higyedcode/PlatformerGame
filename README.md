@@ -2,7 +2,7 @@
 
 ![Alt text](menu.png)
 
-This is a platformer game with multiple levels, where the player is a shooter that has to get to the end of the maze without getting shot by opponents or without getting caught off guard by the various traps hidden in his way. To play the game right away click here: link
+This is a platformer game with multiple levels, where the player is a shooter that has to get to the end of the maze without getting shot by opponents or without getting caught off guard by the various traps hidden in his way. 
 
 ## Game Features 🕹️
 
@@ -37,7 +37,7 @@ Join in on the challenge and see if you can beat all levels! 🌟
 - Gravity is implemented into the game using simple algorithms.
 - Heavily relies on OOP principles in its implementation.
 
-### To complete the project add also these resources ( images, sound files )
-- link to drive
+### To complete the project or play the game right away download these resources ( images, sound files  + executable )
+- https://drive.google.com/drive/folders/1uhkYCsryzUrtI8d4FWPY9idvwNGd3MbX?usp=sharing
 
 
